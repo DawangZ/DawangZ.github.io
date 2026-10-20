@@ -1,0 +1,66 @@
+{
+  "content_revision": "2026-10-20.3",
+  "source_plan_revision": 5,
+  "mode": "public",
+  "base_path": "",
+  "site_url": "https://dawangz.github.io",
+  "routes": [
+    "/en/",
+    "/en/research/",
+    "/en/publications/",
+    "/en/about/",
+    "/en/contact/",
+    "/en/research/sparse-arrays/",
+    "/en/research/irregular-arrays/",
+    "/en/research/wide-scan/",
+    "/en/publications/zhao-2025-rings/",
+    "/en/publications/zhao-2025-attitude/",
+    "/en/publications/zhao-2024-tiling/",
+    "/en/publications/zhao-2023-caterpillar/",
+    "/zh/",
+    "/zh/research/",
+    "/zh/publications/",
+    "/zh/about/",
+    "/zh/contact/",
+    "/zh/research/sparse-arrays/",
+    "/zh/research/irregular-arrays/",
+    "/zh/research/wide-scan/",
+    "/zh/publications/zhao-2025-rings/",
+    "/zh/publications/zhao-2025-attitude/",
+    "/zh/publications/zhao-2024-tiling/",
+    "/zh/publications/zhao-2023-caterpillar/"
+  ],
+  "assets": [
+    {
+      "path": "/assets/style.css",
+      "bytes": 18341,
+      "sha256": "f3835edc6fc03bc4654799b5f45963dbb3ba24436e3d46d145a53809ee274336"
+    },
+    {
+      "path": "/assets/app.js",
+      "bytes": 3452,
+      "sha256": "1d1ff3759c1016fda93fa1a38fa1f44076e3821ef3d7f8059dc1927b044c351b"
+    },
+    {
+      "path": "/assets/portrait.webp",
+      "bytes": 23046,
+      "sha256": "533714d6fef7c1fead39519dd232f15c6c9230d882a9f2711eaef03d0af33328"
+    },
+    {
+      "path": "/assets/heng-zhao-cv-en.pdf",
+      "bytes": 4569,
+      "sha256": "309837e21a26794dad216b37cb8a512b7029ea3d48891cf0099e3546fb1ee3a0"
+    },
+    {
+      "path": "/assets/social.png",
+      "bytes": 65535,
+      "sha256": "0d1a726bc6052dd132c087daa650cd38fdb61e3cb2ca1227eced1bf0b1d091cc"
+    }
+  ],
+  "publication_ids": [
+    "zhao-2025-rings",
+    "zhao-2025-attitude",
+    "zhao-2024-tiling",
+    "zhao-2023-caterpillar"
+  ]
+}
